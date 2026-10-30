@@ -35,7 +35,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m-aziz-algullu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-aziz-algullu&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</p>
